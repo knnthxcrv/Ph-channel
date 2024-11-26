@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TELERADYO SERBISYO" tvg-logo="https://context.ph/wp-content/uploads/2023/05/teleradyo.jpeg" group-title="Philippine Radio",TELERADYO SERBISYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="Philippine Channels",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="MyxPhilippines.ph"  tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Philippine Radio",MYX Philippines
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TV 5"  tvg-logo="https://seeklogo.com/images/T/tv5-philippines-2019-logo-314F25E64F-seeklogo.com.png" group-title="Philippine Channels', TV 5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://i.playboard.app/p/AATXAJxb2uvNJbpw48vP0sqaKe1CI-lnfr5y2uHG1qf1/default.jpg" group-title="Philippine Channels", CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="K-Movies"  tvg-logo="https://static.vecteezy.com/system/resources/previews/006/260/264/original/film-logo-initial-letter-k-movie-logo-design-template-element-eps10-vector.jpg" group-title="International Channels", K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SARI-SARI"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="Philippine Channels",SARI - SARI
+https://tinyurl.com/5bcc4nrw
+
+#EXTINF:-1 tvg-id="ONE NEWS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="Philippine Channels",One News
+https://bit.ly/3V39Bce
+
+#EXTINF:-1 tvg-id="PTV4.ph" tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="Philippine Channels",PTV 4 [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+
+#EXTINF:-1 tvg-id="WILD PLANET"  tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="GENERAL" , Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMERICA'S GOT TALENT"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="GENERAL" , America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="AMERICAN IDOL"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="GENERAL" , American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET"  tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="GENERAL" , Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+
+#EXTINF:-1 tvg-id="Asian Crush" tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="GENERAL, Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="GENERAL, NEWS" , BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="Tv5 Monde" tvg-logo="https://www.adgully.com/img/800/66683_tv5monde-logo.jpg" group-title="GENERAL" , TV5 MONDE Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5 MONDE Style" tvg-logo="https://canada-culture.org/wp-content/uploads/2010/03/Logo-TV5-Monde-2010.png" group-title="GENERAL" , TV5 MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1 tvg-id="NICKELODEON JR"  tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="ANIMATION",NICKELODEON JR
+https://tinyurl.com/yky2zpca
+
+
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="International Channels" , KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="International Channels", MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="International Channels" , NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL"  tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="International Channels" , Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONY MOVIES"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="International Channels", SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TFC"  tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="Philippine Channels",TFC
+https://bit.ly/3WLqRDR
+
+#EXTINF:-1 tvg-id="WILD PLANET"  tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="International Channels" , Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX LIVE"  tvg-logo="https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Fox-News-Live.png" group-title="International Channels", FOX LIVE 
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY ENGLISH"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="International Channels", DISCOVERY HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="International Channels", DISCOVERY SCIENCE
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-id="DMAX"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="International Channels", DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF: -1 tvg-id="HGTV" tvg-chno="29" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="International Channels", HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+
+
+
+
+
+
